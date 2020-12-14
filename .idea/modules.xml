@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Course.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Course.iml" group="Kotlin_Course" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" group="Kotlin_Course/lesson1-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Kotlin_Course/util" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aab7d99-0d01-4d0a-a0a8-984128ae156a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1fwAy4dPNhaNK5qBNNtYSI95uJk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HINTS_IN_TASK_DESCRIPTION" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="lesson1-task1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aab7d99-0d01-4d0a-a0a8-984128ae156a" name="Default Changelist" comment="" />
+      <created>1596981512354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596981512354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="76" key="#Updates" timestamp="1597119081365">
+      <screen x="0" y="0" width="1440" height="820" />
+    </state>
+    <state x="320" y="76" key="#Updates/0.0.1440.820@0.0.1440.820" timestamp="1597119081365" />
+    <state x="408" y="145" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597119082464">
+      <screen x="0" y="0" width="1440" height="820" />
+    </state>
+    <state x="408" y="145" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.820@0.0.1440.820" timestamp="1597119082464" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1597152103626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597152103626" />
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1597152103624">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597152103624" />
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1597152103623">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597152103623" />
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1597152103625">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597152103625" />
+  </component>
+</project>
